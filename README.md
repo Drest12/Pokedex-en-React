@@ -1,0 +1,5 @@
+# Api-Pokedex-React
+Este proyecto React utiliza Vite como herramienta de construcción para crear una aplicación web de Pokedex que consume la API de Pokedex. Vite permite una compilación rápida y eficiente del código y proporciona una configuración fácil de usar. La aplicación utiliza React Hooks, como useState y useContext, para manejar el estado y la lógica del componente. La API de Pokedex se consume mediante el uso de axios, una biblioteca de JavaScript para realizar solicitudes HTTP. La aplicación muestra una lista de Pokémon y un botón "Cargar más" para cargar más Pokémon en la lista. También cuenta con una barra de filtrado para permitir al usuario filtrar los Pokémon por tipo. En general, este proyecto demuestra el uso efectivo de Vite, React y la API de Pokedex para construir una aplicación web interactiva y fácil de usar.
+
+![image](https://user-images.githubusercontent.com/107701223/228610850-9b6956b3-93f0-4f4d-b98e-4ac59470e196.png)
+![image](https://user-images.githubusercontent.com/107701223/228610897-5e7e2bb4-3e4d-4157-b793-1fccefa1bcfa.png)
